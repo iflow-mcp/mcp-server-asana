@@ -1,5 +1,5 @@
 {
-  "name": "@roychri/mcp-server-asana",
+  "name": "@iflow-mcp/mcp-server-asana",
   "publishConfig": {
     "access": "public"
   },
